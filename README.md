@@ -1,4 +1,4 @@
-[![Open in Visual Studio Code]](https://classroom.github.com/online_ide?assignment_repo_id=9422438&assignment_repo_type=AssignmentRepo)
+[![Open in Visual Studio Code](https://avatars.githubusercontent.com/in/68187?s=100&u=9d307562c01daa2c9997670c389656fb50160405&v=4)](https://classroom.github.com/online_ide?assignment_repo_id=9422438&assignment_repo_type=AssignmentRepo)
 # Dockerization of Bookstore Web API (Python Flask) with MySQL
 
 ## Description
